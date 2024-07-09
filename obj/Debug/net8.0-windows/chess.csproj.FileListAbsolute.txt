@@ -114,3 +114,21 @@ E:\Vanya\Универ\2 курс\Программирование курсови
 E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.pdb
 E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.genruntimeconfig.cache
 E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\obj\Debug\net8.0-windows\ref\chess.dll
+E:\Vanya\programs\chess\obj\Debug\net8.0-windows\chess.Form1.resources
+E:\Vanya\programs\chess\obj\Debug\net8.0-windows\chess.Form2.resources
+E:\Vanya\programs\chess\obj\Debug\net8.0-windows\chess.csproj.GenerateResource.cache
+E:\Vanya\programs\chess\obj\Debug\net8.0-windows\chess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vanya\programs\chess\obj\Debug\net8.0-windows\chess.AssemblyInfoInputs.cache
+E:\Vanya\programs\chess\obj\Debug\net8.0-windows\chess.AssemblyInfo.cs
+E:\Vanya\programs\chess\obj\Debug\net8.0-windows\chess.csproj.CoreCompileInputs.cache
+E:\Vanya\programs\chess\obj\Debug\net8.0-windows\chess.sourcelink.json
+E:\Vanya\programs\chess\obj\Debug\net8.0-windows\chess.dll
+E:\Vanya\programs\chess\obj\Debug\net8.0-windows\refint\chess.dll
+E:\Vanya\programs\chess\obj\Debug\net8.0-windows\chess.pdb
+E:\Vanya\programs\chess\bin\Debug\net8.0-windows\chess.exe
+E:\Vanya\programs\chess\bin\Debug\net8.0-windows\chess.deps.json
+E:\Vanya\programs\chess\bin\Debug\net8.0-windows\chess.runtimeconfig.json
+E:\Vanya\programs\chess\bin\Debug\net8.0-windows\chess.dll
+E:\Vanya\programs\chess\bin\Debug\net8.0-windows\chess.pdb
+E:\Vanya\programs\chess\obj\Debug\net8.0-windows\chess.genruntimeconfig.cache
+E:\Vanya\programs\chess\obj\Debug\net8.0-windows\ref\chess.dll

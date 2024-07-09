@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HRB4yJLRHpQ2MXmnIxiaQ+dAc2ZXzcCYDz21XYQ5cKXsaw2iByZ9OePpL07b3zUwwa/CUZxCYtpoXck9xymF2A==",
+  "dgSpecHash": "VdC5gaUe+Xfa6ycDg3vAmDYjtoQ1JFhuwG9xcIFukkfMHDhIdq38/hpRgnkShekfkuja/szA07dIPSAXghCF8Q==",
   "success": true,
-  "projectFilePath": "E:\\Vanya\\Универ\\2 курс\\Программирование курсовик\\chess\\chess v.0.3.2 - final\\chess.csproj",
+  "projectFilePath": "E:\\Vanya\\programs\\chess\\chess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

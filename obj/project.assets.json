@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Vanya\\Универ\\2 курс\\Программирование курсовик\\chess\\chess v.0.3.2 - final\\chess.csproj",
+      "projectUniqueName": "E:\\Vanya\\programs\\chess\\chess.csproj",
       "projectName": "chess",
-      "projectPath": "E:\\Vanya\\Универ\\2 курс\\Программирование курсовик\\chess\\chess v.0.3.2 - final\\chess.csproj",
+      "projectPath": "E:\\Vanya\\programs\\chess\\chess.csproj",
       "packagesPath": "C:\\Users\\Vanyakk\\.nuget\\packages\\",
-      "outputPath": "E:\\Vanya\\Универ\\2 курс\\Программирование курсовик\\chess\\chess v.0.3.2 - final\\obj\\",
+      "outputPath": "E:\\Vanya\\programs\\chess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vanyakk\\AppData\\Roaming\\NuGet\\NuGet.Config",

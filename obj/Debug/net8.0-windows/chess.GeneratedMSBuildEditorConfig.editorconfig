@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = chess
-build_property.ProjectDir = E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\
+build_property.ProjectDir = E:\Vanya\programs\chess\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
