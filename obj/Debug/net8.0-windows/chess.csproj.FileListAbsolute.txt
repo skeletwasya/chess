@@ -1,0 +1,116 @@
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess\bin\Debug\net8.0-windows\chess.exe
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess\bin\Debug\net8.0-windows\chess.deps.json
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess\bin\Debug\net8.0-windows\chess.runtimeconfig.json
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess\bin\Debug\net8.0-windows\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess\bin\Debug\net8.0-windows\chess.pdb
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess\obj\Debug\net8.0-windows\chess.Form1.resources
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess\obj\Debug\net8.0-windows\chess.csproj.GenerateResource.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess\obj\Debug\net8.0-windows\chess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess\obj\Debug\net8.0-windows\chess.AssemblyInfoInputs.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess\obj\Debug\net8.0-windows\chess.AssemblyInfo.cs
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess\obj\Debug\net8.0-windows\chess.csproj.CoreCompileInputs.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess\obj\Debug\net8.0-windows\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess\obj\Debug\net8.0-windows\refint\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess\obj\Debug\net8.0-windows\chess.pdb
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess\obj\Debug\net8.0-windows\chess.genruntimeconfig.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess\obj\Debug\net8.0-windows\ref\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.1\bin\Debug\net8.0-windows\chess.exe
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.1\bin\Debug\net8.0-windows\chess.deps.json
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.1\bin\Debug\net8.0-windows\chess.runtimeconfig.json
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.1\bin\Debug\net8.0-windows\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.1\bin\Debug\net8.0-windows\chess.pdb
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.1\obj\Debug\net8.0-windows\chess.Form1.resources
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.1\obj\Debug\net8.0-windows\chess.csproj.GenerateResource.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.1\obj\Debug\net8.0-windows\chess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.1\obj\Debug\net8.0-windows\chess.AssemblyInfoInputs.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.1\obj\Debug\net8.0-windows\chess.AssemblyInfo.cs
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.1\obj\Debug\net8.0-windows\chess.csproj.CoreCompileInputs.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.1\obj\Debug\net8.0-windows\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.1\obj\Debug\net8.0-windows\refint\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.1\obj\Debug\net8.0-windows\chess.pdb
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.1\obj\Debug\net8.0-windows\chess.genruntimeconfig.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.1\obj\Debug\net8.0-windows\ref\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.2\bin\Debug\net8.0-windows\chess.exe
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.2\bin\Debug\net8.0-windows\chess.deps.json
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.2\bin\Debug\net8.0-windows\chess.runtimeconfig.json
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.2\bin\Debug\net8.0-windows\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.2\bin\Debug\net8.0-windows\chess.pdb
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.2\obj\Debug\net8.0-windows\chess.Form1.resources
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.2\obj\Debug\net8.0-windows\chess.csproj.GenerateResource.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.2\obj\Debug\net8.0-windows\chess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.2\obj\Debug\net8.0-windows\chess.AssemblyInfoInputs.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.2\obj\Debug\net8.0-windows\chess.AssemblyInfo.cs
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.2\obj\Debug\net8.0-windows\chess.csproj.CoreCompileInputs.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.2\obj\Debug\net8.0-windows\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.2\obj\Debug\net8.0-windows\refint\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.2\obj\Debug\net8.0-windows\chess.pdb
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.2\obj\Debug\net8.0-windows\chess.genruntimeconfig.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.2\obj\Debug\net8.0-windows\ref\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\bin\Debug\net8.0-windows\chess.exe
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\bin\Debug\net8.0-windows\chess.deps.json
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\bin\Debug\net8.0-windows\chess.runtimeconfig.json
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\bin\Debug\net8.0-windows\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\bin\Debug\net8.0-windows\chess.pdb
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\obj\Debug\net8.0-windows\chess.Form1.resources
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\obj\Debug\net8.0-windows\chess.csproj.GenerateResource.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\obj\Debug\net8.0-windows\chess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\obj\Debug\net8.0-windows\chess.AssemblyInfoInputs.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\obj\Debug\net8.0-windows\chess.AssemblyInfo.cs
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\obj\Debug\net8.0-windows\chess.csproj.CoreCompileInputs.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\obj\Debug\net8.0-windows\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\obj\Debug\net8.0-windows\refint\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\obj\Debug\net8.0-windows\chess.pdb
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\obj\Debug\net8.0-windows\chess.genruntimeconfig.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\obj\Debug\net8.0-windows\ref\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3\obj\Debug\net8.0-windows\chess.Form2.resources
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\bin\Debug\net8.0-windows\chess.exe
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\bin\Debug\net8.0-windows\chess.deps.json
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\bin\Debug\net8.0-windows\chess.runtimeconfig.json
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\bin\Debug\net8.0-windows\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\bin\Debug\net8.0-windows\chess.pdb
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\obj\Debug\net8.0-windows\chess.Form1.resources
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\obj\Debug\net8.0-windows\chess.Form2.resources
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\obj\Debug\net8.0-windows\chess.csproj.GenerateResource.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\obj\Debug\net8.0-windows\chess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\obj\Debug\net8.0-windows\chess.AssemblyInfoInputs.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\obj\Debug\net8.0-windows\chess.AssemblyInfo.cs
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\obj\Debug\net8.0-windows\chess.csproj.CoreCompileInputs.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\obj\Debug\net8.0-windows\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\obj\Debug\net8.0-windows\refint\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\obj\Debug\net8.0-windows\chess.pdb
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\obj\Debug\net8.0-windows\chess.genruntimeconfig.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.5 - final\obj\Debug\net8.0-windows\ref\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\bin\Debug\net8.0-windows\chess.exe
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\bin\Debug\net8.0-windows\chess.deps.json
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\bin\Debug\net8.0-windows\chess.runtimeconfig.json
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\bin\Debug\net8.0-windows\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\bin\Debug\net8.0-windows\chess.pdb
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.Form1.resources
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.Form2.resources
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.csproj.GenerateResource.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.AssemblyInfoInputs.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.AssemblyInfo.cs
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.csproj.CoreCompileInputs.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\obj\Debug\net8.0-windows\refint\chess.dll
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.pdb
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.genruntimeconfig.cache
+E:\Vanya\Универ\2_курс\Программирование курсовик\chess v.0.3.2 - final\obj\Debug\net8.0-windows\ref\chess.dll
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\bin\Debug\net8.0-windows\chess.exe
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\bin\Debug\net8.0-windows\chess.deps.json
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\bin\Debug\net8.0-windows\chess.runtimeconfig.json
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\bin\Debug\net8.0-windows\chess.dll
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\bin\Debug\net8.0-windows\chess.pdb
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.Form1.resources
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.Form2.resources
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.csproj.GenerateResource.cache
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.AssemblyInfoInputs.cache
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.AssemblyInfo.cs
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.csproj.CoreCompileInputs.cache
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.dll
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\obj\Debug\net8.0-windows\refint\chess.dll
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.pdb
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\obj\Debug\net8.0-windows\chess.genruntimeconfig.cache
+E:\Vanya\Универ\2 курс\Программирование курсовик\chess\chess v.0.3.2 - final\obj\Debug\net8.0-windows\ref\chess.dll

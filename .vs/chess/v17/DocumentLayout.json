@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|e:\\vanya\\\u0443\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|solutionrelative:gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|solutionrelative:pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|solutionrelative:king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|solutionrelative:bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|solutionrelative:rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|solutionrelative:square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|solutionrelative:queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|solutionrelative:knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8491089E-100E-40F7-8B39-1A269A87EE45}|chess.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:08:03.335Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:09:24.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\GameLogic.cs",
+              "RelativeDocumentMoniker": "GameLogic.cs",
+              "ToolTip": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\GameLogic.cs",
+              "RelativeToolTip": "GameLogic.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAcwDsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:56:05.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Knight.cs",
+              "RelativeDocumentMoniker": "Knight.cs",
+              "ToolTip": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Knight.cs",
+              "RelativeToolTip": "Knight.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:50:50.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAuwJ4BAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:11:25.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bishop.cs",
+              "DocumentMoniker": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Bishop.cs",
+              "RelativeDocumentMoniker": "Bishop.cs",
+              "ToolTip": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Bishop.cs",
+              "RelativeToolTip": "Bishop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:51:18.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Square.cs",
+              "DocumentMoniker": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Square.cs",
+              "RelativeDocumentMoniker": "Square.cs",
+              "ToolTip": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Square.cs",
+              "RelativeToolTip": "Square.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:34:45.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "King.cs",
+              "DocumentMoniker": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\King.cs",
+              "RelativeDocumentMoniker": "King.cs",
+              "ToolTip": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\King.cs",
+              "RelativeToolTip": "King.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwCIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:58:00.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Pawn.cs",
+              "RelativeDocumentMoniker": "Pawn.cs",
+              "ToolTip": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Pawn.cs",
+              "RelativeToolTip": "Pawn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:46:49.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Queen.cs",
+              "RelativeDocumentMoniker": "Queen.cs",
+              "ToolTip": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Queen.cs",
+              "RelativeToolTip": "Queen.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAgwGQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:57:29.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:00:37.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Rook.cs",
+              "RelativeDocumentMoniker": "Rook.cs",
+              "ToolTip": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Rook.cs",
+              "RelativeToolTip": "Rook.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:52:02.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Vanya\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\chess\\chess v.0.3.2 - final\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:09:56.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
